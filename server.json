@@ -1,0 +1,16 @@
+{
+  "messages": [
+    {
+      "author": "Desconhecido",
+      "message": "Bom dia Amigos, estou no Edge!",
+      "date": "07/12/21, ás 14:39",
+      "id": 1
+    },
+    {
+      "author": "Desconhecido",
+      "message": "Bom dia Amigos, estou no Firefox!",
+      "date": "07/12/21, ás 14:39",
+      "id": 2
+    }
+  ]
+}
